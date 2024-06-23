@@ -27,6 +27,7 @@ strong {
 .divTable{
 	display: table;
 	width: 100%;
+	overflow:auto;
 }
 .divTableRow {
 	display: table-row;
